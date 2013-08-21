@@ -11,4 +11,7 @@ EvvGC - Open Source 3 axis gimbal controller (hardware files)
 
 20130715 - No changes, just a quick sync of the OSH/Stencil file
 
-20130802 - SandSquid updated to include female housing/pins - http://www.sandsquid.com/#b4xPP5
+20130802 - SandSquid updated to include female housing/pins - ~~http://www.sandsquid.com/#b4xPP5~~
+
+20130820 - until further notice the online BOM on sandsquid isn't working... I'm working with the company to fix it
+           they have some issues on their side
