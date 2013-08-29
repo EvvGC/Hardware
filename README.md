@@ -18,4 +18,4 @@ EvvGC - Open Source 3 axis gimbal controller (hardware files)
 
 20130822 - vpre1.3ce2 - updated actual altium documents to reflect the resistor change on the green diodes.  Combined it with other 
            330ohm resistors so you'd only have to order more of the same as opposed a new line item.
-         - updated the sandsquid BOM - link is http://www.sandsquid.com/#lXdVBx
+         - updated the sandsquid BOM - link is http://www.sandsquid.com/#wL1Nhu
